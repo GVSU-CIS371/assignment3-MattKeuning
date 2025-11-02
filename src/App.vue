@@ -121,7 +121,7 @@ ul {
   cursor: pointer;
 }
 #beverage-container button.selected {
-  background: #ffff99;
+  background: #42b3f5;
   border-color: #000;
 }
 </style>
